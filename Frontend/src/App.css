@@ -1,0 +1,42 @@
+body {
+  background-color: #030a49;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+#car-table-hr {
+  border-top: 2px solid #ffffff;
+  color: #ffffff; /*background-color -> color*/
+  margin-bottom: 20px;
+  opacity: 1;/*#opacity */
+  height: 5px;
+  border-radius: 5px;
+}
+#car-table {
+
+  border-radius: 15px;
+}
+#owner-details {
+  border-radius: 15px;
+  background-color: white;
+width: 50%;
+margin: 0 auto;
+padding: 10px;
+}
+#owner-details h3 {
+  color: #000000;
+}
+#owner-info {
+  border-radius: 15px;
+  background-color: #908e8e69;
+  color: #000000;
+    padding: 20px;
+  
+}
+
+#user-greeting {
+  color: #ffffff;
+
+}
+#register-hr, #login-hr {
+  color: #ffffff;
+}
